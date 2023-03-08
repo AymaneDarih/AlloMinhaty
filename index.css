@@ -1,0 +1,39 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+
+/* 
+.banner-img {
+    width: 700px;
+    height: 700px;
+    padding-left: 100px;
+
+} */
+
+.about-section-area {
+    margin-top: 100px;
+}
+
+.logo-wrapper {
+    display: flex;
+    gap: 10px;
+    align-items: center;
+}
+
+.logo {
+    width: 30%;
+    height: 30%;
+    border-radius: 100%;
+}
+
+.head-logo {
+    font-size: 30px;
+    padding-top: 5px;
+}
+
+.background-image {
+    margin: 250px 50px;
+}
